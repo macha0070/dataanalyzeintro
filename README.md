@@ -44,6 +44,10 @@ R scripts are organized by week. They read data from the `Data/` directory.
 * [cite_start]**相関分析**: 重量と排気量は強い負の相関、年式と製造国は正の相関が確認されました [cite: 20]。
 * [cite_start]**地域特性**: アメリカ車は日本やヨーロッパ車に比べ、大排気量で重量が重い傾向にあります [cite: 32, 33]。
 
+![Simultaneous Scatter Plot](FinalReport/同時散布図.png)
+![Correlation Matrix](FinalReport/相関係数見やすい.png)
+![Boxplot by Origin](FinalReport/boxplot.png)
+
 ### ② 重回帰分析
 [cite_start]全変数を用いた回帰分析（R値 = 0.82）の結果、以下の変数が有意であることが判明しました [cite: 39, 42, 51]：
 * **排気量 (displacement)**
@@ -56,6 +60,10 @@ R scripts are organized by week. They read data from the `Data/` directory.
 [cite_start]結果として、以下のシンプルかつ実用的なモデルが導出されました [cite: 74]。
 
 [cite_start]**モデル式:** `mpg ~ weight + year + origin` [cite: 73, 84]
+
+[cite_start]**モデル式:** `mpg ~ weight + year + origin` [cite: 73, 84]
+
+![MPG vs Weight](FinalReport/mpg-kgplot.png)
 
 ---
 
@@ -71,7 +79,7 @@ R scripts are organized by week. They read data from the `Data/` directory.
 ### 外れ値の分析
 [cite_start]残差プロットの分析により、VW Rabbit (diesel) などのディーゼル車が外れ値として検出されました [cite: 60, 71][cite_start]。これらは「軽量かつディーゼルエンジン」という特性により、通常のモデルから逸脱した高い燃費性能を示しています [cite: 71]。
 
----
+![QQ Plot](FinalReport/QQ.png)---
 
 ## 5. 今後の展望
 * [cite_start]2000年代以降のより新しい自動車データを用いた再分析 [cite: 91, 97]。
