@@ -1,0 +1,101 @@
+"","Ranking","University","Country","Overall","Teaching","Research","Citations","Industry.Incom","International.Outlook"
+"1",1,"University of Oxford","United Kingdom",98.5,96.6,100,99,98.7,97.5
+"2",2,"Stanford University","United States",98,99,97.8,99.6,100,87
+"3",3,"Massachusetts Institute of Technology","United States",97.9,98.6,96.2,99.7,100,93.8
+"4",4,"Harvard University","United States",97.8,97.7,99.9,99.4,84.2,90.8
+"5",5,"University of Cambridge","United Kingdom",97.5,95.8,100,98,87.9,97.4
+"6",6,"Princeton University","United States",96.9,96.3,97.9,98.8,95.1,89.1
+"7",7,"California Institute of Technology","United States",96.5,96.6,98,95.9,100,90.6
+"8",8,"Imperial College London","United Kingdom",95.1,90.9,95.5,98.6,90.9,98.3
+"9",9,"University of California, Berkeley","United States",94.6,87.2,98.8,99,99.4,86.8
+"10",10,"Yale University","United States",94.2,94,94.9,97.7,86.5,82.4
+"11",11,"ETH Zurich","Switzerland",93.1,87.6,96.8,95.6,82.9,95.6
+"12",12,"Tsinghua University","China",92.4,95.3,98.1,93.2,99.9,51.7
+"13",13,"The University of Chicago","United States",92.1,89.6,91.2,97.6,93.8,82.3
+"14",14,"Peking University","China",91.8,95.6,97.3,87.2,98.8,70.2
+"15",15,"Johns Hopkins University","United States",91.1,84.4,92.3,97.2,100,84.2
+"16",16,"University of Pennsylvania","United States",91,87.7,89.7,97.6,97.7,78.8
+"17",17,"Columbia University","United States",90.9,88.6,89.7,97.4,75.2,86.9
+"18",18,"University of California, Los Angeles","United States",90.1,85.7,91.9,96.4,92.3,74.3
+"19",19,"National University of Singapore","Singapore",90,78.8,94,95.4,100,91.1
+"20",20,"Cornell University","United States",89.5,85.7,88.7,97.6,69.4,86
+"21",21,"University of Toronto","Canada",88.6,77.5,94.1,92.8,96.1,90.7
+"22",22,"UCL","United Kingdom",88.1,78.4,86.4,98.6,75.2,97.9
+"23",23,"University of Michigan-Ann Arbor","United States",87.4,84.7,87.4,95.5,80.7,69
+"24",24,"Carnegie Mellon University","United States",86.3,75,84.6,98.9,87.3,85.5
+"25",25,"University of Washington","United States",85.3,78,83.5,98.2,77.6,73.2
+"26",26,"Duke University","United States",83.9,79.3,76.1,96.2,100,74.8
+"27",27,"New York University","United States",83.5,73.2,84,94.9,75.4,80.7
+"28",28,"Northwestern University","United States",83.2,72.3,78.8,97.8,99.7,75.9
+"29",29,"The University of Tokyo","Japan",83.1,93.9,94.2,67.8,100,49.7
+"30",30,"University of Edinburgh","United Kingdom",82.5,70.7,77.5,96.9,71.1,97
+"31",30,"Technical University of Munich","Germany",82.5,69.8,85.1,90,100,83.1
+"32",32,"Nanyang Technological University, Singapore","Singapore",82.3,66.2,80.9,94.5,99.7,93.3
+"33",33,"École Polytechnique Fédérale de Lausanne","Switzerland",81.4,74.5,73.2,90.3,99.8,95.8
+"34",34,"University of California, San Diego","United States",81,66,78.4,97.6,100,74.3
+"35",35,"University of Hong Kong","Hong Kong",80.3,65.6,72.3,96.4,95.2,96.8
+"36",36,"Georgia Institute of Technology","United States",80,63.4,78.9,94.1,94.6,84.8
+"37",37,"University of Melbourne","Australia",79.2,64.8,76.4,90.1,98.3,92.7
+"38",38,"King’s College London","United Kingdom",79,59.8,75.1,97.7,74.2,97.5
+"39",38,"LMU Munich","Germany",79,65.3,76.8,92.2,100,76.9
+"40",40,"Paris Sciences et Lettres � PSL Research University Paris","France",78.5,75.7,72.8,83.2,99.7,81.6
+"41",41,"University of British Columbia","Canada",78,62.5,76.6,90.5,76.7,95
+"42",42,"University of Illinois at Urbana-Champaign","United States",77.9,69.5,81.5,85.2,85.3,64
+"43",43,"Shanghai Jiao Tong University","China",77.7,76.6,82.5,75.4,100,60.6
+"44",44,"Fudan University","China",77.5,76.5,75.3,83.5,96,56.1
+"45",45,"KU Leuven","Belgium",77,60.1,74.9,91.9,100,79.6
+"46",46,"London School of Economics and Political Science","United Kingdom",76.8,59.5,73.5,95.4,55.9,94.1
+"47",47,"Universität Heidelberg","Germany",76.7,67.7,64.3,94.6,99.3,76.4
+"48",48,"Delft University of Technology","Netherlands",76.3,66.7,78.2,76.5,100,92.8
+"49",49,"McGill University","Canada",76,62.3,72.3,88.8,76.1,92.5
+"50",50,"Karolinska Institute","Sweden",75.9,58.9,67.9,95.3,96,85.7
+"51",51,"University of Manchester","United Kingdom",75.6,61.4,67.1,93.1,73.1,95.6
+"52",52,"University of Texas at Austin","United States",75.5,66,75.7,91,81.4,47.3
+"53",53,"Chinese University of Hong Kong","Hong Kong",75.4,59.1,61.5,97.6,95.9,93.6
+"54",54,"Monash University","Australia",75.2,55.3,67.8,94.7,99.7,91.1
+"55",55,"Kyoto University","Japan",75,85.4,84.3,60,100,45.7
+"56",55,"Zhejiang University","China",75,70.2,75.3,78.7,99,65.5
+"57",57,"University of Science and Technology of China","China",74.8,74.3,66.3,88.2,95.6,45.4
+"58",58,"Université Paris-Saclay","France",74.4,70.9,66.1,82.4,92.4,78.6
+"59",59,"University of California, Davis","United States",74.1,63.7,67.8,87.2,91.5,78.7
+"60",60,"The University of Sydney","Australia",73.8,52.6,68.9,92,97.7,90.2
+"61",61,"University of Amsterdam","Netherlands",73.6,55,63.1,96.7,77.6,93.2
+"62",62,"Seoul National University","South Korea",73.4,74.2,75.3,74.6,100,43.7
+"63",63,"University of Wisconsin-Madison","United States",73.3,68.5,67.5,85.5,79.8,62.8
+"64",64,"Brown University","United States",73,69.8,59.6,89.7,69.3,72.1
+"65",64,"The Hong Kong University of Science and Technology","Hong Kong",73,54,62.1,92.9,100,95.5
+"66",64,"Wageningen University & Research","Netherlands",73,56.4,59.8,93.8,98.8,92.4
+"67",67,"Australian National University","Australia",72.6,55.9,68,86.6,82,94.8
+"68",68,"Washington University in St Louis","United States",72.3,60.8,57.2,97.5,77.8,72.7
+"69",69,"University of California, Santa Barbara","United States",72.1,47.4,64.7,96.9,99.4,84
+"70",70,"The University of Queensland","Australia",72,52.9,64.3,89.1,99.8,94
+"71",71,"Institut Polytechnique de Paris","France",71.3,71,61.6,70.8,98.8,97.1
+"72",72,"University of North Carolina at Chapel Hill","United States",71.2,63.4,60.3,93.9,75.8,50.9
+"73",73,"Nanjing University","China",70.9,64,61.7,85.3,96.8,61.8
+"74",74,"University of Southern California","United States",70.8,59.2,58.8,92.5,74.4,74.3
+"75",75,"Sorbonne University","France",70.5,64.7,60.8,83.7,69.5,78.8
+"76",76,"Yonsei University (Seoul campus)","South Korea",70.4,68.1,64.3,79.3,99.9,51.8
+"77",77,"Leiden University","Netherlands",70.2,46,62.7,93,98.1,87.8
+"78",78,"Boston University","United States",70.1,59.6,54.1,94.3,76.4,74.1
+"79",79,"University of Groningen","Netherlands",70,47.5,57.2,94.5,99.9,93.4
+"80",80,"University of Zurich","Switzerland",69.9,54.8,53.4,91.8,93.7,92.4
+"81",81,"University of Bristol","United Kingdom",69.8,48.7,56.5,97.3,72.3,92.5
+"82",82,"City University of Hong Kong","Hong Kong",69.3,52.2,52.4,91.1,100,98.7
+"83",83,"Korea Advanced Institute of Science and Technology (KAIST)","South Korea",69.2,67.1,65.8,77.4,100,41.6
+"84",84,"UNSW Sydney","Australia",68.9,47.2,57.4,91.1,98.6,94.5
+"85",85,"University of Minnesota","United States",68.7,61,58.5,87.2,99.8,48.3
+"86",86,"Purdue University West Lafayette","United States",68.5,64,65.3,71.8,84.3,76.7
+"87",87,"University of Glasgow","United Kingdom",68.2,48.1,51.8,96.8,69.7,96.1
+"88",87,"Hong Kong Polytechnic University","Hong Kong",68.2,45.7,54.1,94.5,87.4,96.3
+"89",87,"Humboldt University of Berlin","Germany",68.2,55.3,63.7,82.8,65.4,79
+"90",90,"RWTH Aachen University","Germany",68,54.9,64.8,78.9,100,71.2
+"91",91,"University of Bonn","Germany",67.8,51.7,57.7,89.7,82.6,73.8
+"92",92,"University of California, Irvine","United States",67.4,47.1,53.8,93.2,96.1,80.9
+"93",92,"Vanderbilt University","United States",67.4,54.1,48.5,96,96.5,62.9
+"94",94,"Charité - Universitätsmedizin Berlin","Germany",67.2,47.5,49.1,97.7,100,75.2
+"95",95,"Lomonosov Moscow State University","Russian Federation",67,87.5,75.2,33.9,91.1,73.8
+"96",95,"University of Tübingen","Germany",67,49.1,56.5,89,99.8,72
+"97",97,"KTH Royal Institute of Technology","Sweden",66.9,53.5,57.8,81,97.7,82.5
+"98",97,"University of Southampton","United Kingdom",66.9,48.9,50.1,92.7,73.1,96.5
+"99",99,"Erasmus University Rotterdam","Netherlands",66.7,38.5,54.1,96.9,94.7,90.6
+"100",99,"Ohio State University (Main campus)","United States",66.7,55.8,52.7,88.4,85,67.3
