@@ -16,7 +16,7 @@ R scripts are organized by week. They read data from the `Data/` directory.
 - Japanese filenames have been renamed to English for consistency.
 
 # 自動車の燃費（MPG）要因分析：1970〜80年代データを用いた重回帰分析
-[cite_start]**2024年度 データ解析序説 期末レポート課題 [cite: 1]**
+
 
 ## 1. プロジェクト概要
 [cite_start]1970年代後半から1980年代初頭の自動車燃費に関するデータ（Auto MPG dataset）を使用し、自動車の諸元が燃費（mpg）に与える影響を統計的に分析しました [cite: 5]。
